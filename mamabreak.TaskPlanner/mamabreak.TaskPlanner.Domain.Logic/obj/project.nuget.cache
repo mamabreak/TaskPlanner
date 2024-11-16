@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9FbnGOPGgpbjdkdSdcJtyO1I0A1jLXcmJeYm3+rrOAeCmk+DobUETbdLEJ5bMa2RRDkR5LvdOnMkeCRX2E6GsA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\ВНТУ\\3 курс\\1 семестр\\.NET\\vntu-.net-23\\TaskPlanner\\AVladyslav.TaskPlanner\\AVladyslav.TaskPlanner.Domain.Logic\\AVladyslav.TaskPlanner.Domain.Logic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

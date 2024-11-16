@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\mamabreak.TaskPlanner.DataAccess.Abstractions\mamabreak.TaskPlanner.DataAccess.Abstractions.csproj" />
+    <ProjectReference Include="..\mamabreak.TaskPlanner.DataAccess\mamabreak.TaskPlanner.DataAccess.csproj" />
+    <ProjectReference Include="..\mamabreak.TaskPlanner.Domain.Models\mamabreak.TaskPlanner.Domain.Models.csproj" />
+  </ItemGroup>
+
+</Project>

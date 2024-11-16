@@ -1,0 +1,369 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Admin\\Desktop\\ВНТУ\\3 курс\\1 семестр\\.NET\\vntu-.net-23\\TaskPlanner\\mamabreak.TaskPlanner\\mamabreak.TaskPlanner.Domain.Logic.Tests\\mamabreak.TaskPlanner.Domain.Logic.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Admin\\Desktop\\ВНТУ\\3 курс\\1 семестр\\.NET\\vntu-.net-23\\TaskPlanner\\mamabreak.TaskPlanner\\mamabreak.TaskPlanner.DataAccess.Abstractions\\mamabreak.TaskPlanner.DataAccess.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\ВНТУ\\3 курс\\1 семестр\\.NET\\vntu-.net-23\\TaskPlanner\\mamabreak.TaskPlanner\\mamabreak.TaskPlanner.DataAccess.Abstractions\\mamabreak.TaskPlanner.DataAccess.Abstractions.csproj",
+        "projectName": "mamabreak.TaskPlanner.DataAccess.Abstractions",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\ВНТУ\\3 курс\\1 семестр\\.NET\\vntu-.net-23\\TaskPlanner\\mamabreak.TaskPlanner\\mamabreak.TaskPlanner.DataAccess.Abstractions\\mamabreak.TaskPlanner.DataAccess.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\ВНТУ\\3 курс\\1 семестр\\.NET\\vntu-.net-23\\TaskPlanner\\mamabreak.TaskPlanner\\mamabreak.TaskPlanner.DataAccess.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Admin\\Desktop\\ВНТУ\\3 курс\\1 семестр\\.NET\\vntu-.net-23\\TaskPlanner\\mamabreak.TaskPlanner\\mamabreak.TaskPlanner.Domain.Models\\mamabreak.TaskPlanner.Domain.Models.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\ВНТУ\\3 курс\\1 семестр\\.NET\\vntu-.net-23\\TaskPlanner\\mamabreak.TaskPlanner\\mamabreak.TaskPlanner.Domain.Models\\mamabreak.TaskPlanner.Domain.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Admin\\Desktop\\ВНТУ\\3 курс\\1 семестр\\.NET\\vntu-.net-23\\TaskPlanner\\mamabreak.TaskPlanner\\mamabreak.TaskPlanner.DataAccess\\mamabreak.TaskPlanner.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\ВНТУ\\3 курс\\1 семестр\\.NET\\vntu-.net-23\\TaskPlanner\\mamabreak.TaskPlanner\\mamabreak.TaskPlanner.DataAccess\\mamabreak.TaskPlanner.DataAccess.csproj",
+        "projectName": "mamabreak.TaskPlanner.DataAccess",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\ВНТУ\\3 курс\\1 семестр\\.NET\\vntu-.net-23\\TaskPlanner\\mamabreak.TaskPlanner\\mamabreak.TaskPlanner.DataAccess\\mamabreak.TaskPlanner.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\ВНТУ\\3 курс\\1 семестр\\.NET\\vntu-.net-23\\TaskPlanner\\mamabreak.TaskPlanner\\mamabreak.TaskPlanner.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Admin\\Desktop\\ВНТУ\\3 курс\\1 семестр\\.NET\\vntu-.net-23\\TaskPlanner\\mamabreak.TaskPlanner\\mamabreak.TaskPlanner.DataAccess.Abstractions\\mamabreak.TaskPlanner.DataAccess.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\ВНТУ\\3 курс\\1 семестр\\.NET\\vntu-.net-23\\TaskPlanner\\mamabreak.TaskPlanner\\mamabreak.TaskPlanner.DataAccess.Abstractions\\mamabreak.TaskPlanner.DataAccess.Abstractions.csproj"
+              },
+              "C:\\Users\\Admin\\Desktop\\ВНТУ\\3 курс\\1 семестр\\.NET\\vntu-.net-23\\TaskPlanner\\mamabreak.TaskPlanner\\mamabreak.TaskPlanner.Domain.Models\\mamabreak.TaskPlanner.Domain.Models.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\ВНТУ\\3 курс\\1 семестр\\.NET\\vntu-.net-23\\TaskPlanner\\mamabreak.TaskPlanner\\mamabreak.TaskPlanner.Domain.Models\\mamabreak.TaskPlanner.Domain.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Admin\\Desktop\\ВНТУ\\3 курс\\1 семестр\\.NET\\vntu-.net-23\\TaskPlanner\\mamabreak.TaskPlanner\\mamabreak.TaskPlanner.Domain.Logic.Tests\\mamabreak.TaskPlanner.Domain.Logic.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\ВНТУ\\3 курс\\1 семестр\\.NET\\vntu-.net-23\\TaskPlanner\\mamabreak.TaskPlanner\\mamabreak.TaskPlanner.Domain.Logic.Tests\\mamabreak.TaskPlanner.Domain.Logic.Tests.csproj",
+        "projectName": "mamabreak.TaskPlanner.Domain.Logic.Tests",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\ВНТУ\\3 курс\\1 семестр\\.NET\\vntu-.net-23\\TaskPlanner\\mamabreak.TaskPlanner\\mamabreak.TaskPlanner.Domain.Logic.Tests\\mamabreak.TaskPlanner.Domain.Logic.Tests.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\ВНТУ\\3 курс\\1 семестр\\.NET\\vntu-.net-23\\TaskPlanner\\mamabreak.TaskPlanner\\mamabreak.TaskPlanner.Domain.Logic.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Admin\\Desktop\\ВНТУ\\3 курс\\1 семестр\\.NET\\vntu-.net-23\\TaskPlanner\\mamabreak.TaskPlanner\\mamabreak.TaskPlanner.DataAccess.Abstractions\\mamabreak.TaskPlanner.DataAccess.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\ВНТУ\\3 курс\\1 семестр\\.NET\\vntu-.net-23\\TaskPlanner\\mamabreak.TaskPlanner\\mamabreak.TaskPlanner.DataAccess.Abstractions\\mamabreak.TaskPlanner.DataAccess.Abstractions.csproj"
+              },
+              "C:\\Users\\Admin\\Desktop\\ВНТУ\\3 курс\\1 семестр\\.NET\\vntu-.net-23\\TaskPlanner\\mamabreak.TaskPlanner\\mamabreak.TaskPlanner.DataAccess\\mamabreak.TaskPlanner.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\ВНТУ\\3 курс\\1 семестр\\.NET\\vntu-.net-23\\TaskPlanner\\mamabreak.TaskPlanner\\mamabreak.TaskPlanner.DataAccess\\mamabreak.TaskPlanner.DataAccess.csproj"
+              },
+              "C:\\Users\\Admin\\Desktop\\ВНТУ\\3 курс\\1 семестр\\.NET\\vntu-.net-23\\TaskPlanner\\mamabreak.TaskPlanner\\mamabreak.TaskPlanner.Domain.Logic\\mamabreak.TaskPlanner.Domain.Logic.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\ВНТУ\\3 курс\\1 семестр\\.NET\\vntu-.net-23\\TaskPlanner\\mamabreak.TaskPlanner\\mamabreak.TaskPlanner.Domain.Logic\\mamabreak.TaskPlanner.Domain.Logic.csproj"
+              },
+              "C:\\Users\\Admin\\Desktop\\ВНТУ\\3 курс\\1 семестр\\.NET\\vntu-.net-23\\TaskPlanner\\mamabreak.TaskPlanner\\mamabreak.TaskPlanner.Domain.Models\\mamabreak.TaskPlanner.Domain.Models.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\ВНТУ\\3 курс\\1 семестр\\.NET\\vntu-.net-23\\TaskPlanner\\mamabreak.TaskPlanner\\mamabreak.TaskPlanner.Domain.Models\\mamabreak.TaskPlanner.Domain.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Admin\\Desktop\\ВНТУ\\3 курс\\1 семестр\\.NET\\vntu-.net-23\\TaskPlanner\\mamabreak.TaskPlanner\\mamabreak.TaskPlanner.Domain.Logic\\mamabreak.TaskPlanner.Domain.Logic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\ВНТУ\\3 курс\\1 семестр\\.NET\\vntu-.net-23\\TaskPlanner\\mamabreak.TaskPlanner\\mamabreak.TaskPlanner.Domain.Logic\\mamabreak.TaskPlanner.Domain.Logic.csproj",
+        "projectName": "mamabreak.TaskPlanner.Domain.Logic",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\ВНТУ\\3 курс\\1 семестр\\.NET\\vntu-.net-23\\TaskPlanner\\mamabreak.TaskPlanner\\mamabreak.TaskPlanner.Domain.Logic\\mamabreak.TaskPlanner.Domain.Logic.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\ВНТУ\\3 курс\\1 семестр\\.NET\\vntu-.net-23\\TaskPlanner\\mamabreak.TaskPlanner\\mamabreak.TaskPlanner.Domain.Logic\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Admin\\Desktop\\ВНТУ\\3 курс\\1 семестр\\.NET\\vntu-.net-23\\TaskPlanner\\mamabreak.TaskPlanner\\mamabreak.TaskPlanner.DataAccess.Abstractions\\mamabreak.TaskPlanner.DataAccess.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\ВНТУ\\3 курс\\1 семестр\\.NET\\vntu-.net-23\\TaskPlanner\\mamabreak.TaskPlanner\\mamabreak.TaskPlanner.DataAccess.Abstractions\\mamabreak.TaskPlanner.DataAccess.Abstractions.csproj"
+              },
+              "C:\\Users\\Admin\\Desktop\\ВНТУ\\3 курс\\1 семестр\\.NET\\vntu-.net-23\\TaskPlanner\\mamabreak.TaskPlanner\\mamabreak.TaskPlanner.DataAccess\\mamabreak.TaskPlanner.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\ВНТУ\\3 курс\\1 семестр\\.NET\\vntu-.net-23\\TaskPlanner\\mamabreak.TaskPlanner\\mamabreak.TaskPlanner.DataAccess\\mamabreak.TaskPlanner.DataAccess.csproj"
+              },
+              "C:\\Users\\Admin\\Desktop\\ВНТУ\\3 курс\\1 семестр\\.NET\\vntu-.net-23\\TaskPlanner\\mamabreak.TaskPlanner\\mamabreak.TaskPlanner.Domain.Models\\mamabreak.TaskPlanner.Domain.Models.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\ВНТУ\\3 курс\\1 семестр\\.NET\\vntu-.net-23\\TaskPlanner\\mamabreak.TaskPlanner\\mamabreak.TaskPlanner.Domain.Models\\mamabreak.TaskPlanner.Domain.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Admin\\Desktop\\ВНТУ\\3 курс\\1 семестр\\.NET\\vntu-.net-23\\TaskPlanner\\mamabreak.TaskPlanner\\mamabreak.TaskPlanner.Domain.Models\\mamabreak.TaskPlanner.Domain.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\ВНТУ\\3 курс\\1 семестр\\.NET\\vntu-.net-23\\TaskPlanner\\mamabreak.TaskPlanner\\mamabreak.TaskPlanner.Domain.Models\\mamabreak.TaskPlanner.Domain.Models.csproj",
+        "projectName": "mamabreak.TaskPlanner.Domain.Models",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\ВНТУ\\3 курс\\1 семестр\\.NET\\vntu-.net-23\\TaskPlanner\\mamabreak.TaskPlanner\\mamabreak.TaskPlanner.Domain.Models\\mamabreak.TaskPlanner.Domain.Models.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\ВНТУ\\3 курс\\1 семестр\\.NET\\vntu-.net-23\\TaskPlanner\\mamabreak.TaskPlanner\\mamabreak.TaskPlanner.Domain.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
